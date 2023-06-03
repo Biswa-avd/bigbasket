@@ -1,0 +1,6 @@
+cd avd 
+ls -l
+cp man.txt  stud.txt
+cat man.txt
+cat stud.txt
+cp -v man.txt stud.txt
