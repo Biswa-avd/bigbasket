@@ -1,1 +1,1 @@
-this particular repository is for multiple command script
+that particular repository is for multiple command script
